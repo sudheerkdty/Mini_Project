@@ -1,1 +1,3 @@
-# Mini_Project Biological Sequence Matching Using Boolean Algebra.
+# Mini_Project 
+Title:Biological Sequence Matching Using Boolean Algebra.
+Platform : MatLab
